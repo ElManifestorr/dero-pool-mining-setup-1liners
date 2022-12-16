@@ -9,6 +9,7 @@ THE POOL ITSELF IS UP NOW AN ABLE TO BE MINED WITH.
 If you'd like to mine to the pool now use the arguement '--daemon-rpc-address=thewestiswild.com:10300' when launching your miner.
 
 If you're running into any issues DM me on twitter @burntboi or on discord @ ElManifestorr#6321 so I can get them fixed ASAP!
+(Please include details what is going wrong. Example: The specific error you're running into, whatever isn't working, & SCREENSHOTS would be very helpful)
 
 We appreciate you choosing to use our pools and look forward to getting a heavy bag together! 
 
