@@ -16,5 +16,6 @@ We appreciate you choosing to use our pools and look forward to getting a heavy 
 Pool fees are 4%. 2% goes to the developers and 2% goes to pool owner. 
 Automated payouts occur every 4800 blocks & everyone who contributes for any amount of time is guaranteed to be paid so long as the pool finds a single block. 
 
+**THIS IS A WORK IN PROGRESS, ILL UPLOAD EACH INDIVIDUAL SCRIPT AS A COMPLETE THE WHOLE SCRIPT WHICH COMBINES THEM*
 
-*The first 10 users to connect and mine using the pool for at least 1 day will qualify to receive an airdropped NFT from an upcoming collection we're also working on :)*
+Fastreg uses the repo https://github.com/deroholic/fastreg and is not written by me. Use at your own caution.
