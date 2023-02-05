@@ -11,6 +11,10 @@ cyan='\033[0;36m'
 # Clear the color after that
 clear='\033[0m'
 
+#updating the system
+sudo apt update
+sudo apt upgrade -y
+
 #installing dependencies 
 sudo apt install snapd git -y
 sudo snap install go
